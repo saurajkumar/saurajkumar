@@ -27,4 +27,3 @@ src="https://media.tenor.com/flflC6GFzO8AAAAd/sultan-alrefaei-programmer.gif" >
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=saurajkumar&show_icons=true&locale=en" alt="saurajkumar" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=saurajkumar&" alt="saurajkumar" /></p>
